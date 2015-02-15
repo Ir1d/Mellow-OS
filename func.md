@@ -14,8 +14,27 @@
 
 >* Freestyle of communicating with other devices
 
->* ...
+>* Quick boot with delayed tasks faster than ever!
 
-$a_i$
+>* Stable and offer chances to get control whenever (like powerful taskmgr on basic standard for high efficiency)-->(No dummy)
+
+>* UPD weekly on Friday with fantasy functions
+
+>* Embeded with best parts ever,Enabling playing,working,or relaxing(25min-5min)
+
+>* Designing Pattern
+
+>* Developing SDk
+
+>* User-friendly && None-disability
+
+>* Secure and locating.
+
+>* Privacy
+
+>* OpenID
+
+>* Powerful file system with Clouds and Backups
+
 
 :)
