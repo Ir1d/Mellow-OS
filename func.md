@@ -36,5 +36,9 @@
 
 >* Powerful file system with Clouds and Backups
 
+>* It should envolve Metro Style and Ubuntu_liked workplace(4 of them) and high efficiency app syncing? You know ,sth like the life_route of apps in IOS
 
+>* High speed in transforming between styles while all the info we need is carefully stored.
+
+>* Will the shortcut follow the file as it moves?
 :)
