@@ -24,7 +24,7 @@
 
 >* Designing Pattern
 
->* Developing SDk
+>* Developing SDK
 
 >* User-friendly && None-disability
 
@@ -41,4 +41,23 @@
 >* High speed in transforming between styles while all the info we need is carefully stored.
 
 >* Will the shortcut follow the file as it moves?
+
+>* Multi_tasks
+
+>* Compatible Ability on various unknown situations.
+
+>* Designer UIs with fantasy Graphics customizable.
+
+>* Sopport Poweful Commands enabling customize upon Linux Bash
+
+>* Setting Centre where we send the commanding functions together.
+
+>* Powerful Browser offering chances for different kinds of users.
+
+>* Fast booting while we can control the time of each part coming in.
+
+>* Optimize as much as we can on both running time and size.
+
+>* WHO KNOWS?
+
 :)
